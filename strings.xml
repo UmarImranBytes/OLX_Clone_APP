@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OLX_Clone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dont_have_account_register_now">Dont have account!<b>Register Now!</b> </string>
+    <string name="already_have_account_login">Already have Account <b>Login!</b></string>
+</resources>
